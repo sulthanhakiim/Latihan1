@@ -1,0 +1,45 @@
+<resources>
+    <string-array name="namaperpustakaan">
+        <item>Sulthan Hakiim</item>
+        <item>Dildo</item>
+        <item>Ardi</item>
+        <item>Nama</item>
+        <item>Wes</item>
+        <item>Manca</item>
+        <item>Waya</item>
+        <item>Mamak</item>
+        <item>Polo</item>
+        <item>Nguyen</item>
+    </string-array>
+
+    <array name="gambarperpustakaan">
+        <item>@drawable/ai</item>
+        <item>@drawable/gambarbunga</item>
+        <item>@drawable/gambarkaki</item>
+        <item>@drawable/gambarnaga</item>
+        <item>@drawable/gambarorang</item>
+        <item>@drawable/harimau</item>
+        <item>@drawable/hulk</item>
+        <item>@drawable/pemandangan</item>
+        <item>@drawable/sakura</item>
+        <item>@drawable/woman</item>
+    </array>
+    <string name="sulthan_hakiim">Sulthan Hakiim</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tambah_data_siswa">Tambah Data Siswa</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="usia">Usia</string>
+    <string name="masukkan_usia">Masukkan Usia</string>
+    <string name="alamat">Alamat</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="peminatan_kelas">Peminatan Kelas</string>
+    <string name="pilih">Pilih</string>
+    <string name="kelas_pilihan">Kelas Pilihan</string>
+    <string name="foto_siswa">Foto Siswa</string>
+    <string name="image">Image</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="simpan">Simpan</string>
+</resources>
